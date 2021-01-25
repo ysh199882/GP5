@@ -52,6 +52,12 @@ git push 提交到远程
 
 ##第六次提交
 s
+2222
 
 
+##分支
+
+- git checkout ysh
+- git branch ysh
+- git 
 
