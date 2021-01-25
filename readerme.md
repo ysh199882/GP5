@@ -36,4 +36,11 @@
 -将代码从暂存区提交到本地仓库
 - git status 
 
-## 
+## 将本地仓库和远程仓库关联
+remote add origin https://github.com/ysh199882/GP5.git
+
+
+##正常提交
+git add .
+git commit -m ''
+git push
