@@ -43,6 +43,12 @@ remote add origin https://github.com/ysh199882/GP5.git
 ##正常提交
 git add .
 git commit -m ''
-git push
+git pull 更新到本地
+git push 提交到远程
 
-##
+##更新代码
+确保自己工作区的代码先提交到服务器
+然后再从服务器下载到本地
+
+
+
